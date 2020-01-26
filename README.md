@@ -12,4 +12,4 @@ Here we provide the code for the Path Ranking Guided Embeddings (PRGE) framework
 - Evaluation notebooks for results (already run with provided results)
 
 ## Data
-We provide already trained embeddings (download from [here](https://owncloud.skel.iit.demokritos.gr/index.php/s/Ba1z5YvtBGKGijj)) and additional files for 3 different datasets: 2 benchmark datasets (FB15K, WN18) and one custom dataset (Dementia, see here for more info). These embeddings can be directly used for the evaluation scripts. The additional files (triples/confidence scores) can be used to train the embeddings from scratch using the cpp script provided.  
+We provide already trained embeddings (download from [here](https://owncloud.skel.iit.demokritos.gr/index.php/s/Ba1z5YvtBGKGijj)) and additional files for 3 different datasets: 2 benchmark datasets (FB15K, WN18) and one custom dataset (Dementia, see [here][https://arxiv.org/pdf/1912.08633.pdf] for more info). These embeddings can be directly used for the evaluation scripts. The additional files (triples/confidence scores) can be used to train the embeddings from scratch using the cpp script provided.  
