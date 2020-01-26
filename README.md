@@ -1,6 +1,8 @@
 # PRGE
 Error detection in Knowledge Graphs: Path Ranking, Embeddings or both?
 
+![alt text](https://github.com/RomFas/PRGE/blob/master/img/PRGE.png "PRGE Framework")
+
 ## Introduction
 Here we provide the code for the Path Ranking Guided Embeddings (PRGE) framework. This is a hybrid approach that utilizes confidence scores from a Path Ranking method to Train Knowledge Graph Embeddings. 
 
